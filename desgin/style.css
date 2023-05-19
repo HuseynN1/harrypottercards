@@ -42,7 +42,7 @@ a{
 
 
 .box_containers{
-   width: 1800px;
+   width: 100%;
     display: flex;
     flex-direction: row; 
     flex-wrap: wrap;
